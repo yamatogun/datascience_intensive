@@ -2,3 +2,7 @@
 data_wrangling_json/data/
 */**/.DS_Store
 */**/.ipynb_checkpoints
+
+pycon-pandas-tutorial/*
+!pycon-pandas-tutorial/Exercises-1.ipynb
+!pycon-pandas-tutorial/Exercises-2.ipynb
